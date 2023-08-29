@@ -1,0 +1,84 @@
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\obj\Debug\EFF.csprojResolveAssemblyReference.cache
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\csc.exe
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\vbc.exe
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\VBCSCompiler.exe
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\EFF.dll.config
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\EFF.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\EFF.pdb
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\obj\Debug\EFF.dll
+C:\Users\INFOTECK MEDIA\documents\visual studio 2015\Projects\EFF\EFF\obj\Debug\EFF.pdb
+F:\EFF\EFF\bin\roslyn\csc.exe
+F:\EFF\EFF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\EFF\EFF\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\EFF\EFF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\EFF\EFF\bin\roslyn\System.Collections.Immutable.dll
+F:\EFF\EFF\bin\roslyn\System.Reflection.Metadata.dll
+F:\EFF\EFF\bin\roslyn\vbc.exe
+F:\EFF\EFF\bin\roslyn\VBCSCompiler.exe
+F:\EFF\EFF\bin\roslyn\VBCSCompiler.exe.config
+F:\EFF\EFF\bin\EFF.dll.config
+F:\EFF\EFF\bin\EFF.dll
+F:\EFF\EFF\bin\EFF.pdb
+F:\EFF\EFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\EFF\EFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\EFF\EFF\obj\Debug\EFF.csprojAssemblyReference.cache
+F:\EFF\EFF\obj\Debug\EFF.csproj.CoreCompileInputs.cache
+F:\EFF\EFF\obj\Debug\EFF.csproj.CopyComplete
+F:\EFF\EFF\obj\Debug\EFF.dll
+F:\EFF\EFF\obj\Debug\EFF.pdb
+I:\EFF\EFF\bin\roslyn\csc.exe
+I:\EFF\EFF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\EFF\EFF\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\EFF\EFF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\EFF\EFF\bin\roslyn\System.Collections.Immutable.dll
+I:\EFF\EFF\bin\roslyn\System.Reflection.Metadata.dll
+I:\EFF\EFF\bin\roslyn\vbc.exe
+I:\EFF\EFF\bin\roslyn\VBCSCompiler.exe
+I:\EFF\EFF\bin\roslyn\VBCSCompiler.exe.config
+I:\EFF\EFF\bin\EFF.dll.config
+I:\EFF\EFF\bin\EFF.dll
+I:\EFF\EFF\bin\EFF.pdb
+I:\EFF\EFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\EFF\EFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\EFF\EFF\obj\Debug\EFF.csprojResolveAssemblyReference.cache
+I:\EFF\EFF\obj\Debug\EFF.dll
+I:\EFF\EFF\obj\Debug\EFF.pdb
+D:\PROJET FF\EFF\EFF\bin\roslyn\csc.exe
+D:\PROJET FF\EFF\EFF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJET FF\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJET FF\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJET FF\EFF\EFF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJET FF\EFF\EFF\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJET FF\EFF\EFF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJET FF\EFF\EFF\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJET FF\EFF\EFF\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJET FF\EFF\EFF\bin\roslyn\vbc.exe
+D:\PROJET FF\EFF\EFF\bin\roslyn\VBCSCompiler.exe
+D:\PROJET FF\EFF\EFF\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJET FF\EFF\EFF\bin\EFF.dll.config
+D:\PROJET FF\EFF\EFF\bin\EFF.dll
+D:\PROJET FF\EFF\EFF\bin\EFF.pdb
+D:\PROJET FF\EFF\EFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJET FF\EFF\EFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJET FF\EFF\EFF\obj\Debug\EFF.csprojAssemblyReference.cache
+D:\PROJET FF\EFF\EFF\obj\Debug\EFF.csproj.CoreCompileInputs.cache
+D:\PROJET FF\EFF\EFF\obj\Debug\EFF.csproj.CopyComplete
+D:\PROJET FF\EFF\EFF\obj\Debug\EFF.dll
+D:\PROJET FF\EFF\EFF\obj\Debug\EFF.pdb
